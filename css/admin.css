@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.wrapper{
+  
+    padding: 1%;
+    width: 80%;
+    margin: 0 auto;
+}
+.menu{
+    border-bottom: 1px solid black;
+}
+.text-center{
+    text-align:center;
+}
+.menu ul{
+    list-style-type: none;
+}
+.menu ul li{
+    display: inline;
+    padding: 1%;
+}
+.menu ul li a{
+    text-decoration: none;
+    font-weight: bold;
+    color: #ff6b81;
+}
+.menu ul li a:hover{
+    color: #ff4757;
+}
+.main-content{
+    
+    background-color: #f1f2f6;
+    padding: 3% 0;
+}
+.col-4{
+    width: 18%;
+    background-color: white;
+    margin: 1%;
+    padding: 2%;
+    float:left;
+
+}
+.tbl-full{
+    width: 100%;
+}
+.tbl-30{
+    width: 30%;
+}
+table tr th{
+    border-bottom: 1px solid black;
+    padding: 1%;
+    text-align: left;
+}
+table tr td{
+    padding: 1%;
+    margin: 10px;
+}
+.btn-primary{
+    background-color: rgb(8, 8, 255);
+    padding: 1%;
+    color:white;
+    text-decoration: none;
+    font-weight: bold;
+    border: 1px solid black;
+}
+.btn-primary:hover{
+    background-color: #3742fa;
+}
+.btn-secondary{
+    background-color: #09ee52;
+    padding: 1%;
+    color:white;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 2px;
+    border: 1px solid black;
+}
+.btn-secondary:hover{
+    background-color: #3792fa;
+}
+.btn-danger{
+    background-color:#ff4757;
+    padding: 1%;
+    color:white;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 2px;
+    border: 1px solid black;
+}
+.btn-danger:hover{
+    background-color: #3742fa;
+}
+
+.clear-fix{
+    float: none;
+    clear: both;
+}
+.success{
+    color:rgb(38, 187, 38);
+}
+.error{
+    color:#ff4757;
+}
+.footer{
+    background-color: #ff4757;
+    color:white;
+   
+
+}
+
+.login{
+    width:25%;
+    border: 3px solid gray;
+    margin: 10% auto;
+    padding: 2%;
+    
+}

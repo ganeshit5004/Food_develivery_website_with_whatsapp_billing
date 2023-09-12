@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url('../images/menu-login.jpeg');
+    background-position: center;
+    background-size: cover;
+}
+.font{
+    background-color: aqua;
+}
+.login{
+    font-weight: bold;
+}
+.login input[type='text'],input[type='password']
+{
+    border: none;
+    background-color: transparent;
+    border-bottom:2px solid black;
+    height: 30px;
+    font-weight: bold;
+    font-size: 16px;
+    display: block;
+    font-family: 'Rubik', sans-serif;
+    width: 100%;
+    padding: 10px 1px;
+    border: 0;
+    border-bottom: 1px solid #747474;
+    outline: none;
+    -webkit-transition: all .2s;
+    transition: all .2s;
+}
+.login input[type='submit']
+{
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+}

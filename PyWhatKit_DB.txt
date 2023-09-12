@@ -1,0 +1,25 @@
+Date: 29/5/2023
+Time: 21:2
+Phone Number: +919500931429
+Message: Transtaction_id:38Name:ganeshFood_Name: Egg rice Price:79Quantity:1Total:79Status:orderedAddress:kalasapakamStay Tune
+--------------------
+Date: 30/5/2023
+Time: 13:27
+Phone Number: +916381997825
+Message: Transtaction_id:39Name:keerthiFood_Name: chicken biriyaniPrice:199Quantity:3Total:597Status:orderedAddress:chettikula medu,7th street,tiruvannamalai-60660494/11aStay Tune
+--------------------
+Date: 30/5/2023
+Time: 13:29
+Phone Number: +916381997825
+Message: Transtaction_id:34Name:keerthiStatus:deliveredWAIT FOR THE ORDER....
+--------------------
+Date: 30/5/2023
+Time: 14:15
+Phone Number: +919500931429
+Message: Transtaction_id:40Name:ganeshFood_Name: chicken biriyaniPrice:199Quantity:2Total:398Status:orderedAddress:chettikula medu,7th street,tiruvannamalai-60660494/11aStay Tune
+--------------------
+Date: 30/5/2023
+Time: 14:17
+Phone Number: +919500931429
+Message: Transtaction_id:35Name:ganeshStatus:deliveredWAIT FOR THE ORDER....
+--------------------
